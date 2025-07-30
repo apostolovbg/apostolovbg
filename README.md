@@ -9,7 +9,7 @@
 **Location:** Sofia, Bulgaria  
 **Email:** apostolov@me.com  
 **Instagram:** [@apostolovbg](https://instagram.com/apostolovbg)  
-**Languages:** Bulgarian (native); English (C2+, native-like); Spanish (B2+); Italian (B2); Russian (reading & listening C2, speaking & writing B2, in progress); German (B1); Serbian, Croatian, Bosnian (B2); Ukrainian (B2 comprehension, B1 production, in progress); Arabic (A2, in progress); Hebrew (in progress)
+**Languages:** Bulgarian (native) | English (C2+, native-like) | Spanish (B2+); Italian (B2) | Russian (reading & listening C2, speaking & writing B2 - in progress) | German (B1) | Serbian, Croatian, Bosnian (B2) | Ukrainian (B2 comprehension, B1 production, all in progress) | Arabic (A2, in progress) | Hebrew (in progress)
 
 ---
 
