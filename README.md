@@ -9,7 +9,7 @@
 **Location:** Sofia, Bulgaria  
 **Email:** apostolov@me.com  
 **Instagram:** [@apostolovbg](https://instagram.com/apostolovbg)  
-**Languages:** 🇧🇬 🇬🇧 🇪🇸 🇮🇹 🇷🇺 🇩🇪 🇷🇸 🇺🇦 🇦🇪 🇮🇱
+**Languages:** Bulgarian (native); English (C2+, native-like); Spanish (B2+); Italian (B2); Russian (reading & listening C2, speaking & writing B2, in progress); German (B1); Serbian, Croatian, Bosnian (B2); Ukrainian (B2 comprehension, B1 production, in progress); Arabic (A2, in progress); Hebrew (in progress)
 
 ---
 
@@ -60,6 +60,25 @@ _Not a programmer in the classical sense, but a visionary technologist, analyst,
 - **CAD/CAE/CAM:** SolidWorks, CATIA, Fusion360, Mach3/4, AutoCAD
 - **AI & Language Tools:** ChatGPT, Gemini, Codex, Grok, Claude; long-context collab
 - **Productivity:** MS Office, Adobe Creative Suite, Final Cut Pro, ERPs/CRMs
+
+---
+
+## 🌟 Extras
+
+### 📸 Machine Shop & Lab Gallery
+<details>
+  <summary>Click to view photos</summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/apostolovbg/copernican/main/docs/machine_shop.jpg" width="350" alt="Machine Shop Example"/>
+    <img src="https://raw.githubusercontent.com/apostolovbg/copernican/main/docs/lab_station.jpg" width="350" alt="Lab Station Example"/>
+  </p>
+  <sub>(More images and project visuals coming soon!)</sub>
+</details>
+
+### 🏆 Achievements & Fun
+
+- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=apostolovbg&theme=darkhub&column=7)
+- [GitHub Skyline 3D contribution graph (generate yours!)](https://skyline.github.com/apostolovbg)
 
 ---
 
