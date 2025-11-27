@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=apostolovbg&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/apostolovbg?label=Followers&style=flat-square" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/MENSA-15525-yellow?style=flat-square" alt="MENSA"/>
+  <img src="https://img.shields.io/badge/MENSA-155-red?style=flat-square" alt="MENSA"/>
+  <img src="https://img.shields.io/badge/Human languages-7+-darkgreen?style=flat-square" alt="Languages"/>
 </p>
 
 # 👋 Apostol Valentinov Apostolov
@@ -87,9 +88,10 @@ _Not a programmer in the classical sense, but a visionary technologist, analyst,
 
 - ✈️ Simulation aviation, physics, bushcraft, CNC, geopolitics, linguistics, hiking, literature, “Life, the Universe and Everything.”
 - 🧘 Focused, distraction-free mindset; Instagram only, no Facebook/LinkedIn.
-- 🧩 MENSA member (99%).
+- 🧩 MENSA member (155=99.9%).
 - 🤝 Loyal, principled, detail-driven; committed to win-win relationships.
 - 🐕 Proud guardian of a half-Pinscher rescue dog named Yoda.
+- 🧠 An Asperger's Syndrome enjoyer - thinking different is an asset, not a liability. 
 
 ---
 
