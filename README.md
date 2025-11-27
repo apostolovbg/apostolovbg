@@ -28,7 +28,7 @@ _Not a programmer in the classical sense, but a technologist, analyst, and probl
 - **Cybersecurity & Zero-Trust Networking:** Designed layered, zero-trust-inspired network architecture for a CNC-equipped lab, including segmented NAT subnets, air-gapped zones, and secure remote access.
 - **Scientific Software Architecture (Copernican Suite):** Created and direct the Copernican Suite, a Python-based cosmological inference and model-comparison framework with YAML-defined models and run manifests, pluggable MCMC and nested-sampling engines, dataset registry, LaTeX-aware reporting and a strict development policy (AGENTS, pre-commit hooks, tests, metadata checks). I specify behaviour and test outputs while AI coding tools implement most of the Python.  
   [🔗 Copernican Suite](https://github.com/apostolovbg/copernican)
-- **Mechanical & Electrical Engineering:** Built an ~50 m² personal machine shop and R&D lab (Black Epsilon Lab) with manual machines and a small CNC router, full metrology corner and microscope station, designing and installing the electrical system, lighting zones, plumbing, drywall, ceiling grid and network myself.
+- **Mechanical & Electrical Engineering:** Built an ~50 m² personal machine shop and R&D lab, [Black Epsilon Lab](https://github.com/apostolovbg/black-epsilon-lab), with manual machines and a small CNC router, full metrology corner and microscope station, designing and installing the electrical system, lighting zones, plumbing, drywall, ceiling grid and network myself.
 - **AI-Directed Learning & Debugging:** Utilize AI tools for diagnosing CNC control board failures, generating G-code and CNC toolpaths, and developing workflow enhancements.
 - **Multilingual & Intercultural Communication:** Interpreter-level English; broad fluency across four language families; extensive international project coordination and technical writing.
 
@@ -39,7 +39,7 @@ _Not a programmer in the classical sense, but a technologist, analyst, and probl
 | Project | Description | Tech Stack | Link |
 | ------- | ----------- | ---------- | ---- |
 | <img alt="Copernican Suite" src="https://raw.githubusercontent.com/apostolovbg/copernican/main/docs/logo.png" width="28"/> | Cosmological inference and model-comparison framework with YAML models, pluggable samplers and strict dev policies | Python, YAML, scientific Python stack | [Copernican Suite](https://github.com/apostolovbg/copernican) |
-| 🏭 Black Epsilon Lab | ~50 m² precision machine shop and tech lab with manual machines + small CNC router, metrology & microscope stations, and custom electrical & network | Machining, Metrology, Electronics | — |
+| 🏭 Black Epsilon Lab | ~50 m² precision machine shop and tech lab with manual machines + small CNC router, metrology & microscope stations, and custom electrical & network | Machining, Metrology, Electronics | [Black Epsilon Lab](https://github.com/apostolovbg/black-epsilon-lab) |
 | 🛡️ Secure Infrastructure | Zero-trust-inspired network, server cabinet, and remote administration for the lab and home infrastructure | Cybersecurity | — |
 
 ---
@@ -74,7 +74,7 @@ _Not a programmer in the classical sense, but a technologist, analyst, and probl
     <img src="https://github.com/apostolovbg/apostolovbg/blob/main/images/shop/IMG_4528.jpeg" width="350" alt="Machine Shop Example"/>
     <img src="https://github.com/apostolovbg/apostolovbg/blob/main/images/shop/IMG_4529.jpeg" width="350" alt="Lab Station Example"/>
   </p>
-  <sub>(More images and project visuals coming soon!)</sub>
+  <sub>(More images and project visuals coming soon! For more details see <a href="https://github.com/apostolovbg/black-epsilon-lab">Black Epsilon Lab</a>.)</sub>
 </details>
 
 ### 🏆 Achievements & Fun
