@@ -71,8 +71,8 @@ _Not a programmer in the classical sense, but a technologist, analyst, and probl
 <details>
   <summary>Click to view photos</summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/apostolovbg/copernican/main/docs/machine_shop.jpg" width="350" alt="Machine Shop Example"/>
-    <img src="https://raw.githubusercontent.com/apostolovbg/copernican/main/docs/lab_station.jpg" width="350" alt="Lab Station Example"/>
+    <img src="https://github.com/apostolovbg/apostolovbg/blob/main/images/shop/IMG_4528.jpeg" width="350" alt="Machine Shop Example"/>
+    <img src="https://github.com/apostolovbg/apostolovbg/blob/main/images/shop/IMG_4529.jpeg" width="350" alt="Lab Station Example"/>
   </p>
   <sub>(More images and project visuals coming soon!)</sub>
 </details>
