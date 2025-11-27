@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=apostolovbg&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/apostolovbg?label=Followers&style=flat-square" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/MENSA-99%25-yellow?style=flat-square" alt="MENSA"/>
+  <img src="https://img.shields.io/badge/MENSA-15525-yellow?style=flat-square" alt="MENSA"/>
 </p>
 
 # 👋 Apostol Valentinov Apostolov
