@@ -49,10 +49,6 @@ _Not a programmer in the classical sense, but a technologist, analyst, and probl
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apostolovbg&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apostolovbg&layout=compact&theme=tokyonight"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apostolovbg)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apostolovbg)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
