@@ -17,7 +17,7 @@
 
 ## 👨‍🔬 Who am I?
 
-I am a multilingual systems thinker, private researcher, machinist, AI explorer, and architect for AI-driven software development. I’m the founder of **Black Epsilon Ltd.** and its small precision workshop in Sofia. My journey spans advanced machine shop design, scientific software architecture, cybersecurity, and the application of AI tools to solve real-world technical and scientific challenges.
+A multilingual systems thinker, private researcher, machinist, AI explorer, and architect for AI-driven software development. The founder of **Black Epsilon Ltd.** and its small precision workshop in Sofia. My journey spans advanced machine shop design, scientific software architecture, cybersecurity, and the application of AI tools to solve real-world technical and scientific challenges.
 
 _Not a programmer in the classical sense, but a technologist, analyst, and problem-solver. I design and direct complex software systems (for example, the Copernican Suite) and use AI coding tools like Codex as my primary “junior developer”, while I handle architecture, specification, and testing. I thrive on guiding AI-assisted development workflows, designing zero-trust-inspired network architectures, and leading complex, multidisciplinary projects._
 
