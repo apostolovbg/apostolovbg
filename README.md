@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Human languages-7+-darkgreen?style=flat-square" alt="Languages"/>
 </p>
 
-# 👋 Apostol Valentinov Apostolov
+# Apostol V. Apostolov
 
 **Location:** Sofia, Bulgaria  
 **Email:** apostolov@me.com  
